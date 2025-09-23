@@ -63,17 +63,11 @@ MOV @R0,A
 INC R0
 MOV @R0,B
 END
-
-
-
-
-
-
-
 ```
-
-
 ## OUTPUT
+<img width="277" height="343" alt="Screenshot 2025-09-23 100712" src="https://github.com/user-attachments/assets/24833e20-e8b2-4d60-9dd1-a4e83a0d8a74" />
+
+<img width="641" height="300" alt="Screenshot 2025-09-23 100803" src="https://github.com/user-attachments/assets/1cb47169-2d78-44d4-a44f-84ecf4d79d71" />
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
